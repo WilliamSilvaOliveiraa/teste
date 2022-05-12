@@ -1,0 +1,1 @@
+Olá, este prjeto encina voce a usar o Git
